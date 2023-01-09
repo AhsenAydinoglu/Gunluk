@@ -1,5 +1,5 @@
 # Gunluk
-.NET 6 ile geliþtirilen bir MVC blog projesi. Arayüzünde Bootstrap 5 kullanýldý.
+.NET 6 ile geliÃ¾tirilen bir MVC blog projesi. ArayÃ¼zÃ¼nde Bootstrap 5 kullanildi.
 
 ## Kaynaklar
 * https://getbootstrap.com/docs/5.3/examples/blog/
