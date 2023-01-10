@@ -5,6 +5,11 @@
 }
 
 <form method="post">
+    @if(action=="Duzenle")
+    {
+        <input asp-for="Id" type="hidden" />
+    }
+   
 <div class="mb-3">
     <label asp-for="Baslik" class="form-label">Başlık</label> 
   @*  labelların içine bir şey yazmaksak display name den atanır.*@
